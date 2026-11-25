@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Raspal Thakur (PalMultimedia)
 
-<!--
-**palmultimedia/palmultimedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UK ecommerce consultant for Magento, Shopify, ads, feeds, analytics, and AI tools.
 
-Here are some ideas to get you started:
+- [Website](https://palmultimedia.com)
+- [Services](https://palmultimedia.com/services/)
+- [About](https://palmultimedia.com/about/)
+- [Contact](https://palmultimedia.com/contact/)
+- [AI Visibility Checker](https://palmultimedia.com/ai-checker/)
+- [SEO Scanner](https://palmultimedia.com/seo-scanner/)
+- [Microsoft Ads vs Google Ads UK Guide](https://palmultimedia.com/microsoft-ads-vs-google-ads-uk/)
+- [Linnworks Shopify integration](https://palmultimedia.com/linnworks-shopify-integration/)
+- [Linnworks WooCommerce integration](https://palmultimedia.com/linnworks-woocommerce-integration/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
